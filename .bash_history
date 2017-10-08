@@ -67,3 +67,54 @@ git push -u origin master
 git pull origin master
 git rm README.md
 git pull origin master
+ls
+git pull origin master
+git commit -m "first commit"
+git config --global user.name "Adrianna Salazar"
+git config --global user.email adriannaasalazar@email.arizona.edu
+git pull
+git remote set-url origin https://adriannaasalazar@github.com/adriannaasalazar/ACIC2017.git
+git pull
+ls
+git init
+git add .
+git commit -m "first commit"
+git config --global user.name "Adrianna Salazar"
+git config --global user.email adriannaasalazar@email.arizona.edu
+git remote set-url origin https://adriannaasalazar@github.com/adriannaasalazar/ACIC2017.git
+git pull
+git push -u origin master
+uquota
+PBS -N test
+ls
+cd butterfly_project/
+PBS -N group_NULL
+va
+qsub hi.sh
+quit()
+qsub hi.sh
+ls
+pwd
+pwd home
+scp hi.sh
+adriannaasalazar@filexfer.hpc.arizona.edu:/home/u22/adriannaasalazar
+adriannaasalazar@filexfer.hpc.arizona.edu://home/u22/adriannaasalazar
+adriannaasalazar@filexfer.hpc.arizona.edu:/home/u22/adriannaasalazar
+scp hi.sh
+adriannaasalazar@filexfer.hpc.arizona.edu:/home/u22/adriannaasalazar
+adriannaasalazar@filexfer.hpc.arizona.edu:/home/u22/adriannaasalazar/butterfly_project
+scp hi.sh
+adriannaasalazar@filexfer.hpc.arizona.edu:/home/u22/adriannaasalazar/butterfly_project
+ls
+cd butterfly_project/
+pwd
+scp hi.sh
+adriannaasalazar@netid@filexfer.hpc.arizona.edu:/home/u22/adriannaasalazar/butterfly_project
+ls
+pwd
+scp hi.sh
+adriannaasalazar@filexfer.hpc.arizona.edu:/home/u22/adriannaasalazar/butterfly_project/hi.sh
+scp hi.sh
+adriannaasalazar@filexfer.hpc.arizona.edu:/home/u22/adriannaasalazar/butterfly_project/scriptname
+q
+logoff()
